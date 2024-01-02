@@ -7,3 +7,4 @@
 - Stuff from QBRs?
 - Tables created?
 - Tablreau report?
+- RFM framework
