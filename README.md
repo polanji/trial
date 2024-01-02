@@ -8,3 +8,4 @@
 - Tables created?
 - Tablreau report?
 - RFM framework
+- Product analytics: microconversion analysis
